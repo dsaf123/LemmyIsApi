@@ -1,0 +1,16 @@
+dartdoc:
+  categories:
+    "Main":
+      name: Main
+    "Models":
+      name: Models
+    "Primatives":
+      name: Primatives
+  categoryOrder: ["Main", "Models", "Primatives"]
+  showUndocumentedCategories: true
+  ignore:
+    - ambiguous-doc-reference
+  errors:
+    - unresolved-doc-reference
+  warnings:
+    - tool-error
