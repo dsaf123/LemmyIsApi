@@ -15,15 +15,15 @@ LemmyIsApi is a Dart/Flutter library to interact with Lemmy servers with futures
 Built with Freezed.
 
 ## Current Features
-Get Posts
-Get Comments
-Get Communities
+- Get Posts
+- Get Comments
+- Get Communities
 
-Upvote/Downvote Comments
-Upvote/Downvote Posts
+- Upvote/Downvote Comments
+- Upvote/Downvote Posts
 
-Save Posts
-Save Comments
+- Save Posts
+- Save Comments
 
 ## Planned Features
 All endpoints from LemmyHttp
